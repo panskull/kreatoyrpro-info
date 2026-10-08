@@ -34,10 +34,20 @@ podpięty pod zamówienie. Usługa działa w modelu SaaS: każdy sklep ma własn
 
 **Panel sklepu**
 - szablony, produkty IdoSell, wygląd kreatora, wzory, grafiki sklepu, czcionki;
-- projekty klientów z pobieraniem pojedynczym i zbiorczym (ZIP);
+- projekty klientów z pobieraniem pojedynczym i zbiorczym (ZIP), statusami produkcji i prośbą o poprawkę;
+- czas przechowywania plików ustawiany przez sklep (do 30 dni, z dodatkowym miejscem do 90 albo 365 dni);
 - konwerter plików (PDF/AI → PNG, JPG, TIFF CMYK), statystyki, pomoc z wyszukiwarką;
 - zgłoszenia (helpdesk) z odpowiedziami także e-mailem;
-- licencje, zamówienia z proformą, opcja white label (kreator na domenie sklepu).
+- licencje, zamówienia z proformą, dodatki zamawiane w panelu: white label (kreator na domenie sklepu) i dodatkowe miejsce na pliki.
+
+**Pliki i bezpieczeństwo**
+- pliki klientów w magazynie obiektowym S3 (Hetzner, Niemcy, UE) z szybką kopią podręczną na serwerze — linki do plików w zamówieniach się nie zmieniają;
+- prywatne pliki z czasowymi linkami do pobrania, automatyczne usuwanie po czasie przechowywania;
+- codzienne kopie zapasowe poza serwerem, monitoring z alarmami.
+
+**Plany**
+- Standard: do 500 produktów, 10 GB na pliki; Premium: do 5000 produktów, 30 GB, konwerter plików;
+- dodatkowe miejsce: +50 GB albo +100 GB, dokupowane w dowolnym momencie.
 
 **Integracja z IdoSell**
 - przez klucz API sklepu albo jako aplikacja w katalogu IdoSell Apps (logowanie z panelu IdoSell).
@@ -46,7 +56,7 @@ podpięty pod zamówienie. Usługa działa w modelu SaaS: każdy sklep ma własn
 
 ## Technologie
 
-Node.js, Express, Vue 3, Vite, Fabric.js, pdfkit, ONNX Runtime (modele AI na własnym serwerze, bez zewnętrznych usług), Playwright.
+Node.js, Express, Vue 3, Vite, Fabric.js, pdfkit, ONNX Runtime (modele AI na własnym serwerze, bez zewnętrznych usług), S3 (Hetzner Object Storage), Playwright.
 
 ---
 
