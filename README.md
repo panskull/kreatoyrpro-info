@@ -59,7 +59,7 @@ podpięty pod zamówienie. Usługa działa w modelu SaaS: każdy sklep ma własn
 
 ## Aktualizacje
 
-- **9.10.2026:** kreator i panel sklepu w 7 językach; instrukcja dla kupującego w wielu językach z tłumaczeniem automatycznym (DeepL, Google Translate, AI) albo ręcznym; kosz projektów z przywracaniem (osobny czas dla projektów z zamówieniem i bez); dokładniejsze dopasowanie zamówień IdoSell do projektów; codzienna kopia plików klientów poza serwerem.
+- **9.10.2026:** kreator i panel sklepu w 7 językach; instrukcja dla kupującego w wielu językach z tłumaczeniem automatycznym (DeepL, Google Translate, AI) albo ręcznym; kosz projektów z przywracaniem (osobny czas dla projektów z zamówieniem i bez); dokładniejsze dopasowanie zamówień IdoSell do projektów i czytelniejsze statystyki zamówień; codzienna kopia plików klientów poza serwerem.
 - **8.10.2026:** pliki klientów w magazynie S3 (Hetzner, UE); plany 10 GB / 30 GB i dodatkowe miejsce +50 / +100 GB; white label zamawiany w panelu.
 
 ---
