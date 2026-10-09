@@ -49,7 +49,8 @@ podpięty pod zamówienie. Usługa działa w modelu SaaS: każdy sklep ma własn
 - codzienne kopie zapasowe poza serwerem (także plików klientów), monitoring z alarmami.
 
 **Plany**
-- Standard: do 500 produktów, 10 GB na pliki; Premium: do 5000 produktów, 30 GB, konwerter plików;
+- Standard: 249 zł netto / mies., do 500 produktów, 10 GB na pliki; Premium: 349 zł netto / mies., do 5000 produktów, 30 GB, konwerter plików;
+- 30 dni za darmo po rejestracji, bez karty i bez automatycznych płatności;
 - dodatkowe miejsce: +50 GB albo +100 GB, dokupowane w dowolnym momencie.
 
 **Integracja z IdoSell**
@@ -59,6 +60,7 @@ podpięty pod zamówienie. Usługa działa w modelu SaaS: każdy sklep ma własn
 
 ## Aktualizacje
 
+- **9.10.2026 (cennik):** okres próbny wydłużony do 30 dni; nowe ceny: Standard 249 zł, Premium 349 zł netto / mies. (także w katalogu IdoSell Apps).
 - **9.10.2026 (wieczór):** statystyki użytkowników kreatora w panelu sklepu i dla operatora usługi (ilu kupujących jest w kreatorze teraz, dziennie i miesięcznie, ilu zapisało projekt — bez ciasteczek i bez zapisu adresów IP); wyszukiwarka w dzienniku e-maili.
 - **9.10.2026:** kreator i panel sklepu w 7 językach; instrukcja dla kupującego w wielu językach z tłumaczeniem automatycznym (DeepL, Google Translate, AI) albo ręcznym; kosz projektów z przywracaniem (osobny czas dla projektów z zamówieniem i bez); dokładniejsze dopasowanie zamówień IdoSell do projektów i czytelniejsze statystyki zamówień; codzienna kopia plików klientów poza serwerem.
 - **8.10.2026:** pliki klientów w magazynie S3 (Hetzner, UE); plany 10 GB / 30 GB i dodatkowe miejsce +50 / +100 GB; white label zamawiany w panelu.
