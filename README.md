@@ -60,7 +60,7 @@ podpięty pod zamówienie. Usługa działa w modelu SaaS: każdy sklep ma własn
 
 ## Aktualizacje
 
-- **9.10.2026 (noc):** grafiki sklepu do 10 MB na plik (limity ustawiane indywidualnie dla sklepu); poprawione wejście do panelu z IdoSell; dzisiejsze zamówienia z projektów widoczne od razu na stronie Start i w kafelku „Dziś” w statystykach; poprawiony wygląd panelu sklepu na telefonie (Start, Linki do kreatora, Ustawienia, Wygląd kreatora, Konwerter).
+- **9.10.2026 (noc):** grafiki sklepu do 10 MB na plik (limity ustawiane indywidualnie dla sklepu); poprawione wejście do panelu z IdoSell; dzisiejsze zamówienia z projektów widoczne od razu na stronie Start i w kafelku „Dziś” w statystykach; poprawiony wygląd panelu sklepu na telefonie (Start, Linki do kreatora, Ustawienia, Wygląd kreatora, Konwerter) i panelu operatora usługi.
 - **9.10.2026 (cennik):** okres próbny wydłużony do 30 dni; nowe ceny: Standard 249 zł, Premium 349 zł netto / mies. (także w katalogu IdoSell Apps).
 - **9.10.2026 (wieczór):** statystyki użytkowników kreatora w panelu sklepu i dla operatora usługi (ilu kupujących jest w kreatorze teraz, dziennie i miesięcznie, ilu zapisało projekt — bez ciasteczek i bez zapisu adresów IP); wyszukiwarka w dzienniku e-maili.
 - **9.10.2026:** kreator i panel sklepu w 7 językach; instrukcja dla kupującego w wielu językach z tłumaczeniem automatycznym (DeepL, Google Translate, AI) albo ręcznym; kosz projektów z przywracaniem (osobny czas dla projektów z zamówieniem i bez); dokładniejsze dopasowanie zamówień IdoSell do projektów i czytelniejsze statystyki zamówień; codzienna kopia plików klientów poza serwerem.
