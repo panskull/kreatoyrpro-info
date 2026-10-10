@@ -60,6 +60,7 @@ podpięty pod zamówienie. Usługa działa w modelu SaaS: każdy sklep ma własn
 
 ## Aktualizacje
 
+- **10.10.2026:** kreator na telefonie: logo sklepu i przycisk „Zakończ” w górnym pasku nie są już ucinane, przyciski okna zatwierdzenia projektu zawsze widoczne na dole ekranu, okno wyboru sposobu zamówienia naklejek mieści się na małych ekranach.
 - **9.10.2026 (noc):** grafiki sklepu do 10 MB na plik (limity ustawiane indywidualnie dla sklepu); poprawione wejście do panelu z IdoSell; dzisiejsze zamówienia z projektów widoczne od razu na stronie Start i w kafelku „Dziś” w statystykach; poprawiony wygląd panelu sklepu na telefonie (Start, Linki do kreatora, Ustawienia, Wygląd kreatora, Konwerter) i panelu operatora usługi; komunikaty w kreatorze (np. o zbyt niskiej rozdzielczości zdjęcia) można zamknąć przyciskiem ✕, żeby nie zasłaniały projektu.
 - **9.10.2026 (cennik):** okres próbny wydłużony do 30 dni; nowe ceny: Standard 249 zł, Premium 349 zł netto / mies. (także w katalogu IdoSell Apps).
 - **9.10.2026 (wieczór):** statystyki użytkowników kreatora w panelu sklepu i dla operatora usługi (ilu kupujących jest w kreatorze teraz, dziennie i miesięcznie, ilu zapisało projekt — bez ciasteczek i bez zapisu adresów IP); wyszukiwarka w dzienniku e-maili.
