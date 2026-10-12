@@ -60,6 +60,7 @@ podpięty pod zamówienie. Usługa działa w modelu SaaS: każdy sklep ma własn
 
 ## Aktualizacje
 
+- **12.10.2026 (poprawka — rozmycie zdjęcia):** zdjęcie z filtrem „Rozmycie” na dużym formacie (np. baner 1,8 × 1,8 m) zapisuje się w kilka sekund — wcześniej przygotowanie pliku do druku mogło przekroczyć czas i klient widział błąd zapisu. Rozmycie w pliku wygląda tak jak w kreatorze, a plik ma pełną rozdzielczość zdjęcia.
 - **12.10.2026 (white label — linki):** klient widzi linki w domenie white label (koszyk, maile), a sklep zawsze ma linki do plików przez kreatorproduktow.pl (powiadomienia, notatki w Apilo / Base / SellAsist, panel) — działają niezależnie od własnej domeny.
 - **12.10.2026 (poprawka — zaproszenie do zespołu):** link „Ustaw hasło” z maila z zaproszeniem (i „Nie pamiętasz hasła?”) otwiera od razu formularz ustawienia hasła — wcześniej osoba niezalogowana w tej przeglądarce widziała zwykłe logowanie.
 - **12.10.2026 (white label — kontrola domeny):** własna domena kreatora jest sprawdzana co 30 minut (DNS i certyfikat SSL). Gdy przestanie działać, nowe linki do kreatora i plików idą przez kreatorproduktow.pl, panel sklepu pokazuje ostrzeżenie z opisem, co naprawić, a po naprawie domena wraca sama. Kod do sklepu (IdoSell, Shoper) ma adres zapasowy — przycisk „Zaprojektuj” nie znika przy awarii domeny.
