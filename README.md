@@ -60,6 +60,7 @@ podpięty pod zamówienie. Usługa działa w modelu SaaS: każdy sklep ma własn
 
 ## Aktualizacje
 
+- **12.10.2026 (parametry WooCommerce / PrestaShop / Shoper):** wymiar wpisywany przez klienta, wymiar z opcji (np. Rozmiar), inne zdjęcie dla opcji i naklejki z parametrów działają teraz także w WooCommerce, PrestaShop i Shoper — tak jak w IdoSell. W szablonie wybierasz produkt ze sklepu i klikasz „Pobierz pola” / „Pobierz parametry”: kreator odczytuje pola z karty produktu (atrybuty, kombinacje, personalizacja, opcje Shopera) i podpowiada je w ustawieniach.
 - **12.10.2026 (starsze zamówienia):** przy Apilo, Base i SellAsist przycisk „Sprawdź starsze zamówienia (14 dni)” — jednorazowo łączy zamówienia sprzed podłączenia z projektami i dopisuje link do pliku w notatce, bez automatyzacji (klienci nie dostają maili). Apilo: pobieranie zamówień stronami (ponad 200 zamówień naraz).
 - **12.10.2026 (źródła zamówień):** w Integracjach przy Apilo, Base i SellAsist sekcja „Źródła zamówień” — przy każdym źródle (koncie sprzedaży) wybór: „Z mojego sklepu” (zamówienia z własnego sklepu — łączenie z projektem / link do pliku w notatce), „Pobieraj zamówienia” (np. Allegro — dla automatyzacji) albo „Nie pobieraj zamówień” (źródło pomijane całkowicie). Przycisk „Odśwież listę źródeł”, gdy w systemie dojdzie nowe źródło.
 - **11.10.2026 (SuperAdmin — weryfikacja dwuetapowa):** logowanie do SuperAdmina może wymagać kodu z aplikacji (Google Authenticator, Microsoft Authenticator, Authy) — włączane w SuperAdmin → System przez zeskanowanie kodu QR i potwierdzenie kodem.
