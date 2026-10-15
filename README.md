@@ -60,6 +60,8 @@ podpięty pod zamówienie. Usługa działa w modelu SaaS: każdy sklep ma własn
 
 ## Aktualizacje
 
+- **15.10.2026 (szablony — margines z boku, np. tunel):** w szablonie można ustawić pas przy wybranej krawędzi (lewy, prawy, górny, dolny) — np. flaga z tunelem. Do wyboru: tylko oznaczenie w kreatorze albo dodatkowy materiał w pliku do druku (flaga 100 × 70 cm + tunel 5 cm → plik 105 × 70 cm); pas zawsze albo zależnie od opcji wybranej przez klienta w sklepie (np. „Tunel: z lewej / u góry / bez tunelu”). Klient widzi zakreskowany pas z podpisem i opis w legendzie linii.
+- **15.10.2026 (poprawka — grafiki przy własnej domenie):** starsze zdjęcia projektu (z magazynu plików) wczytują się w kreatorze także pod własną domeną sklepu (white label) — np. w linku „Popraw projekt”.
 - **15.10.2026 (poprawka — „Popraw projekt” przy własnej domenie):** link do poprawki projektu otwiera kreator na domenie kreatora sklepu (white label), a zdjęcia klienta wczytują się poprawnie także z linków wysłanych wcześniej — wcześniej mogły zniknąć z projektu.
 - **15.10.2026 (poprawka — wgrywanie zdjęć):** gdy klient wgra niepełny lub uszkodzony plik zdjęcia (np. niedokończone pobieranie, plik z chmury jeszcze nieściągnięty na dysk), kreator pokazuje jasny komunikat, żeby zapisać plik ponownie lub wybrać inny — wcześniej pojawiał się ogólny „Wewnętrzny błąd serwera”.
 - **12.10.2026 (poprawka — obrazy z magazynu plików):** starsze zdjęcia i mockupy przeniesione do magazynu plików wczytują się poprawnie także w edytorze (podgląd szablonu w panelu, kreator) — wcześniej po pokazaniu miniatury ten sam obraz w edytorze mógł się nie wczytać.
