@@ -60,6 +60,7 @@ podpięty pod zamówienie. Usługa działa w modelu SaaS: każdy sklep ma własn
 
 ## Aktualizacje
 
+- **15.10.2026 (poprawka — „Popraw projekt” przy własnej domenie):** link do poprawki projektu otwiera kreator na domenie kreatora sklepu (white label), a zdjęcia klienta wczytują się poprawnie także z linków wysłanych wcześniej — wcześniej mogły zniknąć z projektu.
 - **15.10.2026 (poprawka — wgrywanie zdjęć):** gdy klient wgra niepełny lub uszkodzony plik zdjęcia (np. niedokończone pobieranie, plik z chmury jeszcze nieściągnięty na dysk), kreator pokazuje jasny komunikat, żeby zapisać plik ponownie lub wybrać inny — wcześniej pojawiał się ogólny „Wewnętrzny błąd serwera”.
 - **12.10.2026 (poprawka — obrazy z magazynu plików):** starsze zdjęcia i mockupy przeniesione do magazynu plików wczytują się poprawnie także w edytorze (podgląd szablonu w panelu, kreator) — wcześniej po pokazaniu miniatury ten sam obraz w edytorze mógł się nie wczytać.
 - **12.10.2026 (poprawka — rozmycie zdjęcia):** zdjęcie z filtrem „Rozmycie” na dużym formacie (np. baner 1,8 × 1,8 m) zapisuje się w kilka sekund — wcześniej przygotowanie pliku do druku mogło przekroczyć czas i klient widział błąd zapisu. Rozmycie w pliku wygląda tak jak w kreatorze, a plik ma pełną rozdzielczość zdjęcia.
