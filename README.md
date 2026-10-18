@@ -60,6 +60,7 @@ podpięty pod zamówienie. Usługa działa w modelu SaaS: każdy sklep ma własn
 
 ## Aktualizacje
 
+- **18.10.2026 (druga kopia u innej firmy):** wszystkie kopie zapasowe (nocna, pliki klientów, migawka co godzinę) trafiają teraz jednocześnie do dwóch niezależnych firm: na Hetzner Storage Box i do Cloudflare R2. Awaria jednej z nich nie odcina dostępu do kopii. Plik klienta usunięty z magazynu przez pomyłkę można odzyskać przez 14 dni. Nocne kopie są mniejsze, bo pliki klientów nie powtarzają się w nich co noc.
 - **18.10.2026 (pobieranie plików w panelu):** pliki do druku (PDF, PNG, ZIP, linie cięcia) pobierane z listy projektów przychodzą z właściwym typem i od razu pod nazwą zamówienia, np. zamowienie-2458_350x500mm_3szt.pdf. Poprawka dotyczy m.in. Chrome na iPhonie, gdzie pobrany plik bywał pusty.
 - **18.10.2026 (kopie co godzinę):** oprócz nocnej pełnej kopii co godzinę robimy migawkę: nowe pliki i projekty klientów oraz dane sklepów trafiają na osobny serwer kopii zapasowych (Hetzner Storage Box). W razie awarii magazynu plików tracimy najwyżej godzinę pracy, a nie dobę.
 - **17.10.2026 (słownik, porównania, kalkulatory i nowe menu):** słownik druku (20 pojęć: spad, CutContour, DPI, CMYK, PDF/X, kiss cut, DTF, sublimacja i inne), 5 porównań (np. gotowy kreator czy pisany na zamówienie, Canva czy kreator w sklepie, jak wybrać kreator produktów) i dwa darmowe kalkulatory: rozdzielczości do druku i spadu. Strona ma nowe menu z rozwijanymi sekcjami Produkt, Rozwiązania i Wiedza oraz krótszą stopkę. Razem ok. 150 podstron po polsku i angielsku.
