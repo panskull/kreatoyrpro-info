@@ -60,6 +60,7 @@ podpięty pod zamówienie. Usługa działa w modelu SaaS: każdy sklep ma własn
 
 ## Aktualizacje
 
+- **15.11.2026 (Płatność online w regulaminie i cenniku — przygotowane):** gdy uruchomimy płatność online, regulamin (§4) i polityka prywatności (odbiorcy danych) zostaną uzupełnione o płatność kartą, BLIK-iem i portfelem przez operatora płatności, a cennik — o informację „albo online (karta, BLIK)”. Do tego czasu dokumenty się nie zmieniają.
 - **15.11.2026 (Płatność online za licencję — przygotowane):** licencję i dodatki będzie można opłacić online kartą, BLIK-iem, Apple Pay lub Google Pay przyciskiem „Zapłać online” w zakładce Licencja, także zanim zostanie wystawiona proforma. Po potwierdzeniu wpłaty licencja przedłuży się od razu. Płatność uruchomimy po zakończeniu konfiguracji operatora płatności, a do tego czasu licencję opłaca się jak dotąd przelewem na podstawie faktury pro forma.
 - **12.11.2026 (Szybki start — kolejne 6, razem 49):** bon podarunkowy DL z numerami z listy CSV/Excel (każdy bon ma inny numer), pocztówka 15×10 cm (przód i tył), naklejki z imieniem 60×20 mm powielane na arkuszu A4, wizytówka dwustronna, zakładka do książki i menu A4 dwustronne.
 - **12.11.2026 (Adres kontaktowy):** we wszystkich komunikatach, na stronie, w regulaminie i polityce prywatności adres kontaktowy to teraz admin@kreatorproduktow.pl.
