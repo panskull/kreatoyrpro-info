@@ -60,6 +60,7 @@ podpięty pod zamówienie. Usługa działa w modelu SaaS: każdy sklep ma własn
 
 ## Aktualizacje
 
+- **21.11.2026 (Płatność online i dodatki w trakcie licencji):** licencję i dodatki opłacisz online przyciskiem „Zapłać online” w zakładce Licencja, także przy każdym otwartym zamówieniu na liście zamówień. Po wpłacie licencja albo dodatek włącza się od razu. White label, dodatkowe konta użytkowników i dodatkowe systemy dokupisz w każdej chwili trwania opłaconej licencji, bez jej przedłużania. Płacisz tylko za dni do końca licencji, a potem dodatki przedłużają się razem z planem.
 - **21.11.2026 (Faktury — poprawki):** poprawione połączenie z produkcyjnym systemem KSeF. Fakturę, która nie trafiła jeszcze do KSeF ani do klienta, możemy poprawić bez zmiany numeru, więc rzadziej zobaczysz fakturę korygującą.
 - **18.11.2026 (Faktury VAT i KSeF):** po zaksięgowaniu wpłaty za licencję dostaniesz fakturę VAT e-mailem w PDF. Faktury i faktury korygujące są też do pobrania w panelu sklepu, w zakładce Licencja. Faktury trafiają do Krajowego Systemu e-Faktur (KSeF), a PDF ma numer KSeF i kod QR do sprawdzenia faktury. Formularz zamówienia licencji sprawdza teraz poprawność numeru NIP.
 - **15.11.2026 (Płatność online w regulaminie i cenniku — przygotowane):** gdy uruchomimy płatność online, regulamin (§4) i polityka prywatności (odbiorcy danych) zostaną uzupełnione o płatność kartą, BLIK-iem i portfelem przez operatora płatności, a cennik — o informację „albo online (karta, BLIK)”. Do tego czasu dokumenty się nie zmieniają.
